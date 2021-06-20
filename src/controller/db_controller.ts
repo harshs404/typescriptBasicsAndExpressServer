@@ -79,5 +79,3 @@ export class DBController{
 }
 
 // this was a way of sending post request to our postman fro our server...we will use this to send data to database and get response in return
-
-//20 min done...in moring do it fast...4 lectures khali hn morning me....sit to do asap
